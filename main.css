@@ -1,0 +1,131 @@
+
+        body{
+            
+            font-weight: 800;
+            background-color: rgb(97, 245, 122);
+            
+        }
+        a{
+            text-decoration: none;
+        }
+        .head{
+            display:inline-block;
+        }
+        .head1{
+            background-color: #7e8687;   
+            width: 100%;
+            border-radius: 15px;
+            text-align: center;
+        }
+        h1{
+            font-size:13mm;
+            margin-left: 10px;
+            color:white;
+        }
+        .img1{
+            margin-top: 15mm;
+            border-radius: 10px;
+            margin-left: 20px;;
+        }
+        .name{
+            text-align: right;
+            text-decoration: solid black;
+            font-size: large;
+        }
+        .t
+        {
+            text-align: center;
+            color: black;
+            border: black 5px solid;
+            border-radius: 5px;
+        }
+        #r{
+            font-size: 10mm;
+        }
+        address{
+            background-color: black;
+            color:rgb(22,246,61);
+            height: 350px;
+            border-radius: 5px;
+            text-align: center;
+            padding-top: 5mm;
+        }
+        .p1{
+            color: rgb(22,246,61);
+            font-size: 5mm;
+        }
+        .a1{
+            color: rgb(22,246,61);
+            text-decoration: none;
+        }
+        .s1
+        {
+            margin-right: 5px;
+            border-radius: 5px;
+        }
+        .h2{
+            color: black;
+            font-size: 1em;
+            text-align: center;
+            font-weight: 800;
+        }
+        .hr{
+            border: 4px solid #5a5e5e ;
+        }
+        .u1{
+            text-align: center;
+        }
+        
+        .row1{
+            height:50px;
+            width: 99.5%;
+            background-color: black;
+            border: 5px solid black;
+            border-radius: 5px;
+        }
+        .row1-col1{
+            height:50px;
+            width: 20%;
+            float: left;
+        }
+        .row1-col2{
+            height: 40px;
+            width:60%;
+            text-align: center;
+            color: rgb(22,246,61);
+            font-size: 1.5rem;
+            font-weight: 800;
+            padding-top: 7px;
+            float: left;
+        }
+        .row1-col3{
+            height: 40px;
+            width:20%;
+            text-align: center;
+            color: rgb(22,246,61);
+            font-size: 1rem;
+            font-weight: 800;
+            padding-top: 10px;
+            float: right;
+        }
+        
+        #img1{
+            border-radius: 5px;
+            margin-left:10px;
+            margin-top: 5px;
+        }
+        .row2{
+            margin-top: 5px;
+            height: 2px;
+            width: 99.5%;
+            border:5px solid black;
+            border-radius: 5px;
+        }
+       .idd{
+        float: right;
+       }
+       #img2
+       {
+        border-radius: 10px;
+        border: rgb(22,246,61) solid 5px;
+       }
